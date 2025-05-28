@@ -20,7 +20,7 @@ An interactive, cloud-connected sales analytics dashboard built with Python, Str
 
 <!-- Replace the image path below with your actual screenshot path -->
 <p align="center">
-  <img src="C:\Users\tusha\OneDrive\Pictures\Screenshots\Screenshot 2025-05-28 150430.png" alt="Dashboard Screenshot" width="90%">
+  <img src="[C:\Users\tusha\OneDrive\Pictures\Screenshots\Screenshot 2025-05-28 150430.png](https://drive.google.com/file/d/1rbdiAqdpzz2-H-XT-1wyPmlIK7agRXA6/view?usp=drive_link)" alt="Dashboard Screenshot" width="90%">
 </p>
 
 ---
@@ -68,9 +68,9 @@ pip install -r requirements.txt
 SUPABASE_URL=https://your-project.supabase.co
 SUPABASE_KEY=your_supabase_api_key
 SUPABASE_DB_HOST=db.your-project.supabase.co
-SUPABASE_DB_PORT=5432
-SUPABASE_DB_NAME=postgres
-SUPABASE_DB_USER=postgres
+SUPABASE_DB_PORT='XXXX' eg.5432
+SUPABASE_DB_NAME=postgxxx
+SUPABASE_DB_USER=postgxxx
 SUPABASE_DB_PASSWORD=your_password
 ```
 
@@ -119,9 +119,6 @@ This project is licensed under the MIT License. See LICENSE file for details.
 ## 👨‍💻 Author
 
 Made with ❤️ by [Your Name]  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn]([https://www.linkedin.com/in/tusharkhandelwal77/]) • [GitHub](https://github.com/Tushar8982)
 
-📝 Replace:
-- images/dashboard_screenshot.png with your image path or upload to GitHub  
-- yourusername and your-profile with your actual GitHub and LinkedIn info  
-- Supabase values in the .env file instructions  
+
