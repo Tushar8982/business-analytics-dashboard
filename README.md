@@ -115,12 +115,13 @@ business-analytics-dashboard/
 ## 📝 License
 
 This project is licensed under the MIT License. See LICENSE file for details.
+(https://github.com/Tushar8982/business-analytics-dashboard)
 
 ---
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name]  
+Made with ❤️ by Tushar Khandelwal 
 🔗 [LinkedIn](https://www.linkedin.com/in/tusharkhandelwal77/) • [GitHub](https://github.com/Tushar8982)
 
 
